@@ -1,0 +1,106 @@
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\BdayBot.exe.config
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\BdayBot.exe
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Buffers.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Linq.Async.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Memory.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Reactive.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.ValueTuple.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Buffers.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Linq.Async.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Memory.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Reactive.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.ValueTuple.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.AssemblyReference.cache
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.CopyComplete
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.exe
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\obj\Debug\BdayBot.pdb
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\BdayBot.pdb
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Text.Json.dll
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ullah\source\repos\BdayBot\BdayBot\bin\Debug\System.Text.Json.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\BdayBot.exe.config
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\BdayBot.exe
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\BdayBot.pdb
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Commands.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Core.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Interactions.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Rest.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Webhook.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.WebSocket.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Newtonsoft.Json.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Buffers.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Collections.Immutable.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Interactive.Async.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Linq.Async.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Memory.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Numerics.Vectors.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Reactive.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Text.Encodings.Web.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Text.Json.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.ValueTuple.dll
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Commands.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Core.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Interactions.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Rest.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.Webhook.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Discord.Net.WebSocket.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\Newtonsoft.Json.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Buffers.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Collections.Immutable.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Interactive.Async.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Linq.Async.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Memory.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Numerics.Vectors.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Reactive.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Text.Encodings.Web.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Text.Json.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\bin\Debug\System.ValueTuple.xml
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.AssemblyReference.cache
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.SuggestedBindingRedirects.cache
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.CoreCompileInputs.cache
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.csproj.CopyComplete
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.exe
+G:\Meine Ablage\Development\BdayBot\BdayBot\obj\Debug\BdayBot.pdb
